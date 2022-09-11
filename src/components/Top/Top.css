@@ -1,0 +1,14 @@
+#Top1 {
+    margin-bottom: 2px; 
+    border: solid #080608;
+    background-color: #080608;
+    align-items: center;
+    
+}
+
+.LogoImg {
+    width: auto;
+    height: auto;
+    max-width: 100%;
+    max-height: 300px;
+}
