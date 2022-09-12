@@ -23,6 +23,7 @@ export const Navigation = () => {
             className="A1"
             href="https://www.facebook.com/BattistoneLC"
             target="_blank"
+            rel="noreferrer"
           >
             <BsFacebook /> Facebook
           </a>
@@ -32,6 +33,7 @@ export const Navigation = () => {
             className="A1"
             href="https://www.instagram.com/battistonelc/"
             target="_blank"
+            rel="noreferrer"
           >
             <BsInstagram /> Instagram
           </a>
