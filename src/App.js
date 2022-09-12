@@ -5,6 +5,7 @@ import "bootstrap/dist/css/bootstrap.min.css"; //Bootstrap for Carousel https://
 import { Top } from "./components/Top/Top";
 import { Navigation } from "./components/Navigation/Navigation";
 import { Media } from "./components/Media/Media";
+import { About } from "./components/About/About";
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <Top />
       <Navigation />
       <Media />
+      <About />
     </div>
   );
 }

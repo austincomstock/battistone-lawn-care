@@ -1,0 +1,30 @@
+
+#About1 {
+    border-right: solid thin #080608;
+    border-bottom: solid thin #080608;
+    border-left: solid thin #080608;
+    background-color: #414642;
+    color: #ffffff;
+    text-align: center;
+    min-height: 250px;
+}
+
+
+#AboutH3 {
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+
+#About2 {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+
+p {
+    margin-bottom: 0px;
+    padding: 5px;
+}
