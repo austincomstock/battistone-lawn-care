@@ -1,20 +1,22 @@
 #Nav1 {
-    margin-bottom: 2px;
-    border: solid #080608;
+    border-right: solid thin #080608;
+    border-bottom: solid thin #080608;
+    border-left: solid thin #080608;
     background-color: #61AD5A;
     color: #ffffff;
-    text-align: center;
 }
 
 
 #Nav2 {
-    margin: 10px;
+    margin-bottom: 0px;
+    padding: 10px;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-evenly;
     align-items: center;
     align-content: center;
+    min-height: 150px;
 }
 
 .A1 {
