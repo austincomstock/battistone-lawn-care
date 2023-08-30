@@ -12,8 +12,8 @@ export const About = () => {
       <div id="About2">
         <p>Prices starting as low as $30 for weekly mowing.</p>
         <p>
-          Battistone Lawn Care is a family owned business operating out of West
-          Haven, UT.
+          Battistone Lawn Care is a family owned business operating out of Farr
+          West, Utah.
         </p>
         <p>We offer quality lawn care at a fair price.</p>
       </div>
